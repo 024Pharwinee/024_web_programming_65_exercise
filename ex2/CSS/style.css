@@ -1,0 +1,62 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px ;
+    background-color: rgb(255, 251, 245);
+    letter-spacing:1px ;
+    width: 1000px;
+   
+}
+.pic 
+ {
+     float: left;
+}
+.sum{
+    display: flex;
+}
+.one ,
+.two,
+.three {
+    
+    padding: 10px;
+    margin: 10px;
+}
+.top{
+    width: 700px;
+}
+.one{
+    background-color: rgba(214, 194, 176, 0.727);
+    
+}
+.two{
+    background-color: rgba(220, 218, 214, 0.618);
+ 
+  
+}
+
+.footer{
+    color: crimson;
+}
+h1{
+    color: rgb(123, 42, 13);
+}
+.aa,
+.bb,
+.cc {
+    padding: 10px;
+}
+.aa{
+  background-color: rgb(250, 236, 205);
+}
+.bb{
+    background-color: rgb(246, 214, 171);
+}
+.cc{
+    background-color: rgb(238, 196, 141);
+}
+.font{
+    font-family: 'Kanit', sans-serif;
+font-family: 'Rowdies', cursive;
+}
+h3{
+    color: rgb(26, 3, 97);
+}
